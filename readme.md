@@ -12,7 +12,7 @@ Pagination with AJAX infinite scroll.
 -------------------------------------------------------------------
 ![Screenshot2](/storage/2.jpg?raw=true "Screenshot 2")
 
-## Installtion Process
+## Installation Process
 
 To install clone the repo:
 
@@ -23,6 +23,10 @@ To install clone the repo:
 ``composer install``
 
 ``php artisan key:generate``
+
+rename `.env.example` file to `.env` if not already done by composer.
+open `.env` and place all credentials there.
+**Database credentials and Twitter keys are mandatory**
 
 ``php artisan migrate``
 
