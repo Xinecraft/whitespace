@@ -9,6 +9,8 @@ Pagination with AJAX infinite scroll.
 
 ## Screenshot
 ![Screenshot1](/storage/1.jpg?raw=true "Screenshot 1")
+
+
 ![Screenshot2](/storage/2.jpg?raw=true "Screenshot 2")
 
 ## Installtion Process
