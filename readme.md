@@ -27,7 +27,3 @@ To install clone the repo:
 ``php artisan migrate``
 
 You are done. Gud Luck!
-
-## License
-
-No License in assigned to this project right now.
