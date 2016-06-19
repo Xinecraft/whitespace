@@ -1,4 +1,4 @@
-# GetWings Internship Test Project
+# WhiteSpace - PHP Intern Application - Zishan Ansari
 
 This Project is developed using Laravel framework.
 Laravel is a web application framework with expressive, elegant syntax.
@@ -31,3 +31,6 @@ open `.env` and place all credentials there.
 ``php artisan migrate``
 
 You are done. Gud Luck!
+
+### Author
+Zishan Ansari - zishanansari1337@gmail.com
